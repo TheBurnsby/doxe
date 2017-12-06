@@ -1,0 +1,27 @@
+{
+  "name": "doxe",
+  "version": "1.0.0",
+  "description": "Docs for Oxe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "s": "muleify serve -w src dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBurnsby/doxe.git"
+  },
+  "keywords": [
+    "docs",
+    "oxe"
+  ],
+  "author": "Verge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBurnsby/doxe/issues"
+  },
+  "homepage": "https://github.com/TheBurnsby/doxe#readme",
+  "dependencies": {
+    "oxe": "^2.7.2"
+  }
+}
